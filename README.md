@@ -26,4 +26,9 @@ After making the concept art, I had to transfer it to my PC to import into Blend
 
 ### Modeling in Blender
 
+<div align="center">
 
+<img src="mergedimage.png" width="350" alt="Merged Reference Concept">
+<img src="Screenshot_20260829_224907.png" width="350" alt="Blender Modeling Viewport">
+
+<p><i>Reference setup and 3D modeling progress inside Blender</i></p>
