@@ -16,17 +16,25 @@ But I Didn't Have any Reference Pictures So I made my Own on paper
 </div>
 
 ### Digitalizing the Reference
-After making the concept art, I had to transfer it to my PC to import into Blender as a reference background
-<div align="center">
+After making the concept art, I had to transfer it to my PC to import into Blender as a reference background.
 
+<div align="center">
+  
 <img src="mergedimage.png" width="350" alt="Merged Reference Concept">
 <img src="Screenshot_20260829_224907.png" width="350" alt="Blender Modeling Viewport">
-<img src="Screenshot_20260829_205837.webp" width="350" alt="Blender Modeling Viewport">
-<p><i>Reference setup and 3D modeling progress inside Blender</i></p>
+
+<br>
+
+<img src="Screenshot_20260829_205837.webp" width="650" alt="Digitalizing Progress">
+<p><i>Reference setup and digitalizing process</i></p>
+
+</div>
 
 ### Modeling in Blender
-
+ I put the reference Images In  Blender and Started
 <div align="center">
+a
+<img src="Screenshot_20260830_104756.webp" width="650" alt="Blender 3D Modeling Progress">
+<p><i>Modeling the main body and neck</i></p>
 
-
-<p><i>Reference setup and 3D modeling progress inside Blender</i></p>
+</div>
