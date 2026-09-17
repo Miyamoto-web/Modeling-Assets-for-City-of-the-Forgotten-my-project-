@@ -37,6 +37,19 @@ After Making the Reference Images I Begin Modeling I started with a basic cube a
  
 <img src="Screenshot_20260904_234520.webp" width="650" alt="Blender 3D Modeling Progress">
 <p><i> 3D main body Finished </i></p>
+
+
+## How to Run / View the Project
+
+### 1. Viewing in Blender
+1. Download the `.blend` file from this repository
+2. Open **Blender** and go to `File > Open`
+3. Switch to **Viewport Shading (Material Preview)** to view the textured low-poly model
+
+### 2. Testing the 3D Asset (.glb)
+* You can drag and drop the `Protag_city.blender.glb` file into an online viewer like [gLTF Viewer](https://gltf-viewer.donmccurdy.com/) to inspect the 3D model directly in your browser
+* For game engines (such as **Godot 4**), import the `.glb` file along with `Protag.texture.map.png` into your project's FileSystem and assign the texture to the mesh material
+
 <img src="Screenshot_20260909_210604.webp" width="650" alt="Blender 3D Modeling Progress">
 <p><i> Final Result! </i></p>
 
