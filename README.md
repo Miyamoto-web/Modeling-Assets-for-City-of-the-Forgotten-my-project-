@@ -37,7 +37,7 @@ After Making the Reference Images I Begin Modeling I started with a basic cube a
  
 <img src="Screenshot_20260904_234520.webp" width="650" alt="Blender 3D Modeling Progress">
 <p><i> 3D main body Finished </i></p>
-<img src="Screenshot_20260904_234520.webp" width="650" alt="Blender 3D Modeling Progress">
-<p><i> 3D main body Finished </i></p>
+<img src="Screenshot_20260909_210604.webp" width="650" alt="Blender 3D Modeling Progress">
+<p><i> Final Result! </i></p>
 
 </div>
