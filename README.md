@@ -38,6 +38,9 @@ After Making the Reference Images I Begin Modeling I started with a basic cube a
 <img src="Screenshot_20260904_234520.webp" width="650" alt="Blender 3D Modeling Progress">
 <p><i> 3D main body Finished </i></p>
 
+## Demo Video
+[
+https://youtu.be/D2OxRT3qUMg](https://youtu.be/9ZU8_nbiwio)
 
 ## How to Run / View the Project
 
